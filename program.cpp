@@ -1,3 +1,7 @@
+
+g++ -Wall -std=c++14 c.cpp 
+
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
